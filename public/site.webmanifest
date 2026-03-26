@@ -1,0 +1,17 @@
+{
+  "name": "Savvy - Software Development & Website Design",
+  "short_name": "Savvy",
+  "description": "Leading software development and website design company in Dubai, UAE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
